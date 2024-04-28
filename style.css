@@ -1,15 +1,4 @@
-.wrapper{
-	text-align:center;
-	width:60%;
-	margin:0 auto;
-	border:5px solid #ddd;
-}
-label{
-	font-size: 20px;
-}
-.first_name	{
-	width:90%;
-	height:25px;
-	podding:10px;
-	font-size: 18px;
+h2{
+	font-size:10px;
+	background-color: yellow;
 }
